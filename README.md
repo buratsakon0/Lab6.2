@@ -1,4 +1,4 @@
 # Lab6.2
-LAB GROUP 2.26 /n
-Nutcha Khampoung 660610751 /n
-Buratsakon Srikhaw 660612150 
+<h>LAB GROUP 2.26
+<br>Nutcha Khampoung 660610751 
+<br>Buratsakon Srikhaw 660612150 
